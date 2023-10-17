@@ -1,0 +1,26 @@
+.footer {
+    height: auto;
+    width: 100%;
+    background: #184b7e;
+    color: #fff;
+}
+.footer-container {
+    height: 100%;
+    width: 100%;
+    padding: 50px 50px;
+}
+.footer-img {
+    height: 150px;
+    width: 150px;
+}
+.footer-img img {
+    height: 100%;
+}
+.f-title {
+    font-size: 22px;
+    font-weight: 600;
+}
+.ul:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}

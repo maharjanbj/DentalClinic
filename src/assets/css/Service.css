@@ -1,0 +1,42 @@
+.service-section {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    height: auto;
+    width: 100%;
+    background: #fff;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.service-container {
+    height: 100%;
+    width: 100%;
+}
+.service-content {
+    height: 100%;
+    width: 100%;
+}
+.service-box {
+    border: 2px solid #198EFE;
+    height: 250px;
+    width: 300px;
+}
+.service-title {
+    font-size: 60px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    color: #198EFE;
+}
+.service-sub-title {
+    font-size: 18px;
+    font-weight: 400;
+}
+.image-icon {
+    height: 100px;
+    width: 100px;
+}
+.image-icon img {
+    height: 100%;
+}
+.blur {
+    opacity: 0.6;
+}
